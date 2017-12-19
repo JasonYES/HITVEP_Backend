@@ -1,0 +1,19 @@
+2017-12-18 12:32:57 - (sanic)[ERROR]: Connection lost before response written @ ('192.168.23.1', 28684)
+2017-12-18 13:20:38 - (sanic)[ERROR]: Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/sanic/app.py", line 493, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/usr/local/lib/python3.5/dist-packages/sanic/router.py", line 307, in get
+    return self._get(request.path, request.method, '')
+  File "/usr/local/lib/python3.5/dist-packages/sanic/router.py", line 333, in _get
+    raise method_not_supported
+sanic.exceptions.InvalidUsage: Method POST not allowed for URL /teacher/course/structure/item/del
+
+2017-12-18 13:21:48 - (sanic)[ERROR]: Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/sanic/app.py", line 493, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/usr/local/lib/python3.5/dist-packages/sanic/router.py", line 307, in get
+    return self._get(request.path, request.method, '')
+  File "/usr/local/lib/python3.5/dist-packages/sanic/router.py", line 333, in _get
+    raise method_not_supported
+sanic.exceptions.InvalidUsage: Method POST not allowed for URL /course/state
+

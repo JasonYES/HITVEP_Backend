@@ -1,0 +1,45 @@
+2017-12-19 12:12:14 - (sanic)[INFO]: Stopping worker [48852]
+2017-12-19 12:15:45 - (sanic)[INFO]: Goin' Fast @ http://0.0.0.0:8000
+2017-12-19 12:15:45 - (sanic)[INFO]: Starting worker [49965]
+2017-12-19 12:15:45 - (sanic)[INFO]: Starting worker [49968]
+2017-12-19 12:15:45 - (sanic)[INFO]: Starting worker [49967]
+2017-12-19 12:15:45 - (sanic)[INFO]: Starting worker [49966]
+2017-12-19 12:15:47 - (sanic)[INFO]: Stopping worker [49968]
+2017-12-19 12:15:47 - (sanic)[INFO]: Stopping worker [49967]
+2017-12-19 12:15:47 - (sanic)[INFO]: Received signal SIGINT. Shutting down.
+2017-12-19 12:15:47 - (sanic)[INFO]: Stopping worker [49965]
+2017-12-19 12:15:47 - (sanic)[INFO]: Stopping worker [49966]
+2017-12-19 12:15:47 - (sanic)[INFO]: Server Stopped
+2017-12-19 12:24:19 - (sanic)[INFO]: Goin' Fast @ http://0.0.0.0:8000
+2017-12-19 12:24:19 - (sanic)[INFO]: Starting worker [50271]
+2017-12-19 12:24:19 - (sanic)[INFO]: Starting worker [50273]
+2017-12-19 12:24:19 - (sanic)[INFO]: Starting worker [50272]
+2017-12-19 12:24:19 - (sanic)[INFO]: Starting worker [50274]
+2017-12-19 12:24:21 - (sanic)[INFO]: Stopping worker [50272]
+2017-12-19 12:24:21 - (sanic)[INFO]: Stopping worker [50271]
+2017-12-19 12:24:21 - (sanic)[INFO]: Received signal SIGINT. Shutting down.
+2017-12-19 12:24:21 - (sanic)[INFO]: Stopping worker [50273]
+2017-12-19 12:24:21 - (sanic)[INFO]: Stopping worker [50274]
+2017-12-19 12:24:21 - (sanic)[INFO]: Server Stopped
+2017-12-19 12:24:23 - (sanic)[INFO]: Goin' Fast @ http://0.0.0.0:8000
+2017-12-19 12:24:23 - (sanic)[INFO]: Starting worker [50290]
+2017-12-19 12:24:23 - (sanic)[INFO]: Starting worker [50291]
+2017-12-19 12:24:23 - (sanic)[INFO]: Starting worker [50292]
+2017-12-19 12:24:23 - (sanic)[INFO]: Starting worker [50293]
+2017-12-19 12:25:58 - (sanic)[INFO]: Stopping worker [50292]
+2017-12-19 12:25:58 - (sanic)[INFO]: Stopping worker [50291]
+2017-12-19 12:25:58 - (sanic)[INFO]: Stopping worker [50290]
+2017-12-19 12:25:58 - (sanic)[INFO]: Received signal SIGINT. Shutting down.
+2017-12-19 12:25:58 - (sanic)[INFO]: Stopping worker [50293]
+2017-12-19 12:25:58 - (sanic)[INFO]: Server Stopped
+2017-12-19 12:26:05 - (sanic)[INFO]: Goin' Fast @ http://0.0.0.0:8000
+2017-12-19 12:26:05 - (sanic)[INFO]: Starting worker [50395]
+2017-12-19 12:26:05 - (sanic)[INFO]: Starting worker [50396]
+2017-12-19 12:26:05 - (sanic)[INFO]: Starting worker [50398]
+2017-12-19 12:26:05 - (sanic)[INFO]: Starting worker [50397]
+2017-12-19 20:07:33 - (sanic)[INFO]: Stopping worker [50395]
+2017-12-19 20:07:33 - (sanic)[INFO]: Stopping worker [50398]
+2017-12-19 20:07:33 - (sanic)[INFO]: Stopping worker [50397]
+2017-12-19 20:07:33 - (sanic)[INFO]: Received signal SIGINT. Shutting down.
+2017-12-19 20:07:33 - (sanic)[INFO]: Stopping worker [50396]
+2017-12-19 20:07:33 - (sanic)[INFO]: Server Stopped
